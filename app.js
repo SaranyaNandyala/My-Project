@@ -4,7 +4,7 @@ const axios = require('axios');
 const path = require('path');
 
 
-const API_KEY = '9589ac123b49b175182947f7241e5541';
+const API_KEY = 'XXXXXXXXXXXXXXXXXXXXXX';
 
 const app = express();
 const port = 3000;
