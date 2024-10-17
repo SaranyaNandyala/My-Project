@@ -1,4 +1,4 @@
-# WEATHER DETECTIION SITE
+# WEATHER DETECTION SITE
 This is a simple weather detection web application that allows users to get real-time weather data for any location. It uses Node.js (Express) as the backend, SQLite for caching data, and fetches weather information from the OpenWeatherMap API to minimize redundant API calls.
 
 Features
